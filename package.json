@@ -1,0 +1,27 @@
+{
+  "name": "hng-project1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "hng",
+    "stage-0",
+    "catfacts",
+    "express"
+  ],
+  "author": "Okeowo Abdulkabir",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.1.0",
+    "helmet": "^8.1.0",
+    "https": "^1.0.0",
+    "morgan": "^1.10.1"
+  }
+}
